@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.colorFondo{
+    background-image: linear-gradient( #f3f3f3, #705c5c);
+}
+
+.fondoo{
+    color: rgb(254, 254, 254);
+    background-color: black;
+    border: rgb(223, 0, 0);
+}
+
+.subs{
+    height: 650px;
+    background-color: rgb(231, 231, 231);
+}
+.subs h1{
+    text-align: center;
+}
+.row{
+    padding: 60px;
+}
+
+.registro h1{
+    text-align: center;
+}
+
+.registro{
+    height: 600px;
+}
+
+.buton{
+    margin-top: 30px;
+}
